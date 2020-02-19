@@ -11,8 +11,8 @@ class Dropdown {
     this.trigger.addEventListener('click', () => {
       this.trigger.classList.toggle('active');
       this.content.classList.toggle('active'); 
-    })
+    });
   }
 }
 
-export { Dropdown as default }
+export { Dropdown as default };

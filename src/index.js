@@ -16,3 +16,5 @@ dropdowns.forEach(dropdown =>  {
 });
 
 // create tabs
+const tabs = new Tabs(document.querySelector('.tabs'));
+tabs.init();

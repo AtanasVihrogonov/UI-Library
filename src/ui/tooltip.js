@@ -16,10 +16,10 @@ class Tooltip {
       tip.classList.add('active');
     });
 
-    this .element.addEventListener('mouseleave', () => {
+    this.element.addEventListener('mouseleave', () => {
       tip.classList.remove('active');
     });
   }
 }
 
-export { Tooltip as default }
+export { Tooltip as default };
