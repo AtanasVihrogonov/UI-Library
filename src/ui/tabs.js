@@ -1,3 +1,5 @@
+import './styles/tabs.css';
+
 class Tabs {
   constructor(container){
     this.container = container;
@@ -21,7 +23,7 @@ class Tabs {
     // add new active class
     e.target.classList.add('active');
   }
-  
+
   toggleContent(e){
     // remove current active classes
     this.container.querySelectorAll('.content').forEach(item => {
