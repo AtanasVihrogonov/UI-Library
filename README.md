@@ -1,6 +1,8 @@
 # UI Library
 
 ![Screenshot](src\screenshot.png)
+![tempsnip](https://user-images.githubusercontent.com/45083295/74930042-b69aec80-53d4-11ea-9822-0e815ec1794b.png)
+
 
 >  Small UI Library components with the help of webpack.
 
