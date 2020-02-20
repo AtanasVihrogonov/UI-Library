@@ -1,6 +1,7 @@
 # UI Library
 
-![Screenshot](src\screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/45083295/74886748-e57f7700-5370-11ea-8ce6-497c3cd59b3a.png)
+
 ![tempsnip](https://user-images.githubusercontent.com/45083295/74930042-b69aec80-53d4-11ea-9822-0e815ec1794b.png)
 
 
