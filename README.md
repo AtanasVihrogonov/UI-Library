@@ -4,7 +4,6 @@
 
 ![tempsnip](https://user-images.githubusercontent.com/45083295/74930042-b69aec80-53d4-11ea-9822-0e815ec1794b.png)
 
-
 >  Small UI Library components with the help of webpack.
 
 ---
@@ -40,16 +39,11 @@ If you wanted to build and upload the final project all you have to do is run th
 
 `npm run build`
 
-
 ## Author Info
-
 
 ## Contact
 
-
 > Created by [A.Vihrogonov] [Vihrogonov@protonmail.com] - feel free to contact me!
-
-
 
 [Back To The Top](#ui-library)
 
